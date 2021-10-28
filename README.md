@@ -103,10 +103,10 @@ Finally, we would also like to partner with the NGO in desseminating educational
 
 Project Structure
 ```bash
-▒▒▒▒.ipynb_checkpoints
-▒▒▒▒data
-▒▒▒▒Images
-▒▒▒▒Individual_Jupyters
-    ▒▒▒▒.ipynb_checkpoints
-    ▒▒▒▒Archived
+├──.ipynb_checkpoints
+├──data
+├──Images
+├──Individual_Jupyters
+    ├──.ipynb_checkpoints
+    ├──Archived
 ```
