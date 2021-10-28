@@ -102,10 +102,11 @@ Knowing that NGO often work under tight budget constraints, we would also love t
 Finally, we would also like to partner with the NGO in desseminating educational materials and instruction on well maintenance, to impower local communities to increase the sustainability of these improved water sources. 
 
 Project Structure
-`├──__init__.py
-├── P3_Project.ipynb
-├── README.md
-├── Presentation.pdf
-├── data
-├── images`
-
+```bash
+▒▒▒▒.ipynb_checkpoints
+▒▒▒▒data
+▒▒▒▒Images
+▒▒▒▒Individual_Jupyters
+    ▒▒▒▒.ipynb_checkpoints
+    ▒▒▒▒Archived
+```
