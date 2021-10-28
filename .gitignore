@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #individual jupyters
-*.Individual_Jupyters/
+.Individual_Jupyters/
