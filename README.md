@@ -8,7 +8,8 @@ This repository has been created to present a data analytical approach to help a
 
 Technical Jupyter Notebook (.ipynb) containing all data analysis
 Matching pdf of the above notebook
-Project presentation slides (pdf)
+Phase 3 presentation (pdf)
+[Phase 3 presentation slides](https://docs.google.com/presentation/d/1bLGyPGV1-n9dBV0NYhM2iqxitX8GHsHzPss1DoGjwUw/edit?usp=sharing)
 
 ## Overview:
 This project uses data about Tanzanian wells available at [DrivenData](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/). Our model seeks to classify wells as functional or not, in order to help a non-government organization (NGO) determine which wells they need to repair. After the data were cleaned, various iterative classification models were run in order to identify a model that has the best mix of a high precision and low complexity. We found that the amount of total static head (tsh) of the well, alongside its installer, extraction type, and if it had a government permit, were all significant predictors in classifying the functionality of a well, with 75% precision.
@@ -106,6 +107,7 @@ Finally, we would also like to partner with the NGO in disseminating educational
 Project Structure
 ```bash
 ├──.ipynb_checkpoints
+├──Phase 3 presentation
 ├──data
 ├──Images
 ├──Individual_Jupyters
