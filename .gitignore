@@ -130,3 +130,6 @@ dmypy.json
 
 #individual jupyters
 .Individual_Jupyters/
+
+#.DS_Store
+/.DS_Store
